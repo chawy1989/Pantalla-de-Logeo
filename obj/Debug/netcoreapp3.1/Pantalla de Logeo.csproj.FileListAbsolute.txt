@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Pantalla de Logeo\bin\Debug\netcoreapp3.1\Pantalla de Logeo.exe
+C:\Users\user\source\repos\Pantalla de Logeo\bin\Debug\netcoreapp3.1\Pantalla de Logeo.deps.json
+C:\Users\user\source\repos\Pantalla de Logeo\bin\Debug\netcoreapp3.1\Pantalla de Logeo.runtimeconfig.json
+C:\Users\user\source\repos\Pantalla de Logeo\bin\Debug\netcoreapp3.1\Pantalla de Logeo.runtimeconfig.dev.json
+C:\Users\user\source\repos\Pantalla de Logeo\bin\Debug\netcoreapp3.1\Pantalla de Logeo.dll
+C:\Users\user\source\repos\Pantalla de Logeo\bin\Debug\netcoreapp3.1\Pantalla de Logeo.pdb
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.AssemblyInfo.cs
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.dll
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.pdb
+C:\Users\user\source\repos\Pantalla de Logeo\obj\Debug\netcoreapp3.1\Pantalla de Logeo.genruntimeconfig.cache
